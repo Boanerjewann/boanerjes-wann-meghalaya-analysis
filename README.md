@@ -63,7 +63,7 @@ Features:
 2. Navigate through the sheets:
    - Summary statistics
    - Section1 to S2-Q4 analysis
-   - Dashboard  
+   - S4-Dashboard  
 3. Use the slicers in the dashboard to filter by region and district and Primary Occupation
 
 ---
